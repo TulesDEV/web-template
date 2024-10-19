@@ -1,4 +1,4 @@
-# This is an AI application called MimsAI, providing users with book summaries.
+# This is an react web app template
 
 ```
 Pacakges:
@@ -22,11 +22,9 @@ Pacakges:
 
 ```
 
-Book search - user provides book name and/or author
-PDF upload - user provides pdf for summary (page limit determined by user tier)
-Summary generation (utilises OpenAI + custom prompts)
-User profile a.k.a "bookshelf"
-"Converse Mode" - user can chat with the AI to discuss insights
+[X]
+
+[X]
 
 ```
 
